@@ -4,8 +4,8 @@ import banner from '../../images/bannerbackground.png'
 
 const Banner = () => {
     return (
-        <Container style={{ backgroundImage: `url(${banner})`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '500px', }} className='mt-3' >
-            <h1>This Is Home Page</h1>
+        <Container fluid style={{ backgroundImage: `url(${banner})`, backgroundRepeat: 'no-repeat', backgroundSize: 'cover', height: '500px', }} className='mt-3 ml-0 px-0' >
+            
         </Container>
     );
 };

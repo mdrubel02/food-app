@@ -27,7 +27,7 @@ const Header = () => {
     //     navigate('/')
     // }
     return (
-        <Container className='mb-3'>
+        <Container fluid className='mb-3'>
             <Navbar bg="primary" variant="dark">
                 <Container>
                     <Navbar.Brand href="#home">
