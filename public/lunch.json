@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "quantity": 0,
+      "description": "Whether you are cooking for just yourself, one to two people, or a larger group, planning meals is a good place to start improving your food choices.",
+      "price": "$23.99",
+      "picture": "https://ibb.co/album/x8vcrw",
+      "name": "Healthy Meal Plan"
+    },
+    {
+      "id": "2",
+      "quantity": 2,
+      "description": "Many casseroles and meat sauces use cream soups as a base. Use a low-fat cream soup.",
+      "price": "$9.9",
+      "picture": "https://ibb.co/album/x8vcrw",
+      "name": "Fried Chicken bento"
+    },
+    {
+      "id": "3",
+      "quantity": 3,
+      "description": "Substitute a low-fat cheese in casseroles and vegetable sauces. When using sharply flavored cheese.",
+      "price": "$6.99",
+      "picture": "https://ibb.co/album/x8vcrw",
+      "name": "Tarragon-Rubbed-Salmon"
+    },
+    {
+      "id": "4",
+      "quantity": 4,
+      "description": "Try a non-stick cooking spray or a small amount of cooking oil for sautéing instead of frying with solid fat.",
+      "price": "$8.99",
+      "picture": "https://ibb.co/album/x8vcrw",
+      "name": "Indian Lunch"
+    },
+  
+    {
+      "id": "5",
+      "quantity": 5,
+      "description": "If you are using ground beef for tacos or meat sauce for spaghetti, look for a lower-fat variety such as ground round",
+      "price": "$15.99",
+      "picture": "https://ibb.co/album/x8vcrw",
+      "name": "Beef steak"
+    },
+    {
+      "id": "6",
+      "quantity": 6,
+      "description": "Instead of full-fat versions of mayonnaises, butter, and salad dressings, try those that are lower in calories, total fat",
+      "price": "$7.99",
+      "picture": "https://ibb.co/album/x8vcrw",
+      "name": "Honey-Soy-Glazed Salmon With Peppers"
+    }
+  
+  ]

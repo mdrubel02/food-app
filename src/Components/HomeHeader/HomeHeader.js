@@ -10,8 +10,8 @@ const HomeHeader = () => {
                     <Container>
                         <Nav className="mx-auto">
                             <Nav.Link as={Link} to="/breakFast">BreakFast</Nav.Link>
-                            <Nav.Link as={Link} to="/dinner">Dinner</Nav.Link>
-                            <Nav.Link as={Link} to="/lunch">Lunch</Nav.Link>
+                            <Nav.Link as={Link} to="/dinner">Lunch</Nav.Link>
+                            <Nav.Link as={Link} to="/lunch">Dinner</Nav.Link>
                         </Nav>
                     </Container>
                 </Navbar>
