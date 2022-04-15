@@ -8,3 +8,15 @@
     transition: 0.5s;
     outline: none;
 }
+.signup{
+    position: absolute;
+    top: 80px;
+    left: 120px;
+}
+
+@media (max-width: 576px) {
+    .signup{
+        left: 0;
+    }
+}
+    

@@ -5,6 +5,7 @@ import { useNavigate } from 'react-router-dom';
 import { auth } from '../../firebase/firebase.init';
 import logo from '../../images/logo2.png'
 import Loading from '../Loading/Loading';
+import './Login.css'
 
 const Login = () => {
     const emailRef = useRef('');
@@ -33,7 +34,7 @@ const Login = () => {
     }
 
     return (
-        <Container>
+        <Container className='login'>
             <Row>
                 <Col></Col>
                 <Col md={6} lg={6}>

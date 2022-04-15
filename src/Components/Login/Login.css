@@ -1,0 +1,11 @@
+.login{
+    position: absolute;
+    top: 80px;
+    left: 120px;
+}
+
+@media (max-width: 576px) {
+    .login{
+        left: 0;
+    }
+}

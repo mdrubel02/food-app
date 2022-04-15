@@ -5,7 +5,7 @@ import './SignUp.css'
 import { useCreateUserWithEmailAndPassword } from 'react-firebase-hooks/auth'
 import { auth } from '../../firebase/firebase.init'
 import Loading from '../Loading/Loading';
-import { useNavigate } from 'react-router-dom';
+import { Outlet, useNavigate } from 'react-router-dom';
 
 
 const SignUp = () => {
@@ -47,7 +47,7 @@ const SignUp = () => {
 
 
     return (
-        <Container>
+        <Container className='signup'>
             <Row>
                 <Col></Col>
                 <Col md={6} lg={6}>
@@ -79,6 +79,7 @@ const SignUp = () => {
                 <Col></Col>
             </Row>
             <Row></Row>
+           
         </Container>
     );
 };
