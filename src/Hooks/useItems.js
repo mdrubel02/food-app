@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 const useItems = () => {
     const [items,setItems] = useState([]);
     const [dinnerItems,setDinnerItems] = useState([]);
+    const [breakFast,setBreakFast] = useState([]);
 
     useEffect(()=>{
         fetch('lunch.json')
@@ -15,8 +16,13 @@ const useItems = () => {
         .then(res => res.json())
         .then(data => setDinnerItems(data))
     },[]);
+    useEffect(()=>{
+        fetch('breakFast.json')
+        .then(res => res.json())
+        .then(data => setBreakFast(data))
+    },[]);
 
-    return {items,setItems,dinnerItems,setDinnerItems} ;
+    return {items,setItems,dinnerItems,setDinnerItems,breakFast,setBreakFast} ;
 };
 
 export default useItems;

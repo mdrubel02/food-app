@@ -1,0 +1,52 @@
+[
+    {
+      "id": "1",
+      "quantity": 0,
+      "description": " one to two people, or a larger group, planning meals is a good place to start improving your food choices.",
+      "price": "$6.9",
+      "picture": "https://i.ibb.co/5c85D8h/breakfast1.png",
+      "name": "Bagel And Cream Chesses"
+    },
+    {
+      "id": "2",
+      "quantity": 2,
+      "description": "Many casseroles and meat sauces use cream soups as a base. Use a low-fat cream soup.",
+      "price": "$9.99",
+      "picture": "https://i.ibb.co/HCjGPxY/breakfast2.png",
+      "name": "BreakFast SandWich"
+    },
+    {
+      "id": "3",
+      "quantity": 3,
+      "description": "Substitute a low-fat cheese in casseroles and vegetable sauces. When using sharply flavored cheese.",
+      "price": "$10.99",
+      "picture": "https://i.ibb.co/gwcBNDK/breakfast3.png",
+      "name": "Baked Chiken"
+    },
+    {
+      "id": "4",
+      "quantity": 4,
+      "description": "Try a non-stick cooking spray or a small amount of cooking oil for sautéing instead of frying with solid fat.",
+      "price": "$8.99",
+      "picture": "https://i.ibb.co/RS1xYYB/breakfast4.png",
+      "name": "Eggs Benedict"
+    },
+  
+    {
+      "id": "5",
+      "quantity": 5,
+      "description": " look for a lower-fat variety such as ground round",
+      "price": "$9.99",
+      "picture": "https://i.ibb.co/60Hb8pg/breakfast6.png",
+      "name": "Full BreakFast Eggs"
+    },
+    {
+      "id": "6",
+      "quantity": 6,
+      "description": "Instead of full-fat versions of mayonnaises, butter, and salad dressings, try those that are lower in calories, total fat",
+      "price": "$15.99",
+      "picture": "https://i.ibb.co/LRxQcdW/breakfast5.png",
+      "name": "Toast Croisant Eggs"
+    }
+  
+  ]
